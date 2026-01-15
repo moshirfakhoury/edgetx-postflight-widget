@@ -1,6 +1,11 @@
-Post Flight Review Widget (EdgeTX)
+Checkout my other widgets:
+
+https://github.com/moshirfakhoury/edgetx-flightdash-widget
+
+https://github.com/moshirfakhoury/edgetx-preflighttest-widget
 
 Overview:
+
 The Post Flight Review Widget is a powerful EdgeTX Lua widget designed to help pilots analyze and review flight performance after landing. With support for up to 8 telemetry parameters, it captures and displays minimum and maximum values for each assigned sensor or data source. Two of these parameters can also be assigned to logical values, enabling pilots to track switches, arm states, or other binary conditions during the flight. Unlike live telemetry displays, the PFR widget preserves data even if the flight battery is disconnected, allowing for thorough post-flight analysis. All recorded telemetry values reset only when the transmitter is powered off, ensuring a full flight session can be reviewed without interruption. This makes it an essential tool for optimizing flight performance, troubleshooting issues, or simply keeping detailed flight records.
 
 Features:
