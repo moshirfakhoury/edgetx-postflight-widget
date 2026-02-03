@@ -23,6 +23,13 @@ Features:
 - Ideal for flight review, training, troubleshooting, and performance optimization.
 - Minimalistic, easy-to-read interface designed for quick interpretation of flight data.
 
+Installation
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Find the last folder named postFlight (it contains main.lua and README.txt)
+- Copy only this postFlight folder
+- Paste it into your SDCard/WIDGETS directory
+
 Widget - Disconnected
 
 <img width="495" height="287" alt="image" src="https://github.com/user-attachments/assets/0bd42c5e-2b7e-4d18-ab14-95d21d5dfda1" />
